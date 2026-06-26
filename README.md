@@ -119,7 +119,7 @@ Top drivers of default prediction:
 ---
 
 ## Tableau Dashboard
-*(Publishing in progress — link will be added here)*
+(https://public.tableau.com/app/profile/himanshu.kanchap/viz/credit_risk_project/Dashboard1)
 
 Charts included:
 - Expected Loss by Risk Grade

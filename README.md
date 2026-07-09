@@ -79,7 +79,7 @@ Applied the Basel II Expected Loss formula:
 ```
 Expected Loss = PD × LGD × EAD
 ```
-
+tttttt
 - **PD** — predicted by logistic regression model
 - **LGD** — fixed at 45% (industry standard for unsecured consumer loans)
 - **EAD** — loan amount outstanding

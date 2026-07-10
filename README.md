@@ -18,7 +18,7 @@ An end-to-end credit risk modeling project built on real-world Lending Club loan
 | **KS Statistic** | 0.3343 |
 
 ---
-Crazyyyyyyyyyy tech stackkk uk
+
 ## Tech Stack
 
 - **Python** (Google Colab) — data cleaning, modeling, SHAP explainability

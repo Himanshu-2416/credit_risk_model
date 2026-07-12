@@ -2,7 +2,7 @@
 
 An end-to-end credit risk modeling project built on real-world Lending Club loan data. Covers the full lifecycle from raw data ingestion to a deployable scoring model with business-ready outputs — mirroring workflows used at banks and consumer lending firms.
 
----
+----
 
 ## Project Overview
 
